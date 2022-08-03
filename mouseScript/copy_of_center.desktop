@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=center
+Type=Application
+Exec=python3 /usr/bin/center.py
+Terminal=false
